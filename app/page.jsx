@@ -7,9 +7,9 @@ const Home = () => {
                 <br className="max-md:hidden" />
                 <span className="orange_gradient text-center">AI-Powered Prompts</span>
             </h1>
-            <p className="desc text-center">
-                Prompts Sharing is a platform where you can discover and share prompts for your writing, drawing, or any other creative work. Our AI-powered system generates prompts based on your preferences and helps you to overcome writer's block.
-            </p>
+                <p className="desc text-center">
+                    Prompts Sharing is a platform where you can discover and share prompts for your writing, drawing, or any other creative work.
+                </p>
             <Feed />
         </section>
     )
